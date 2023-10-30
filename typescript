@@ -1,0 +1,22 @@
+Script started on Mon Oct 30 11:27:06 2023
+[1m[7m%[27m[1m[0m                                                                                ]7;file://ModydeMacBook-Air.local/Users/Alfred_Mo/tecky-exercises[0m[27m[24m[JAlfred_Mo@ModydeMacBook-Air tecky-exercises % [K[?2004hlls[?2004l
+a		file2.txt	my-file.txt
+a1		list.txt	typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://ModydeMacBook-Air.local/Users/Alfred_Mo/tecky-exercises[0m[27m[24m[JAlfred_Mo@ModydeMacBook-Air tecky-exercises % [K[?2004hlls -lah[?2004l
+total 16
+drwxr-xr-x   8 Alfred_Mo  staff   256B 10 30 11:27 .
+drwxr-x---+ 24 Alfred_Mo  staff   768B 10 30 11:27 ..
+drwxr-xr-x   2 Alfred_Mo  staff    64B 10 30 11:16 a
+drwxr-xr-x   3 Alfred_Mo  staff    96B 10 30 11:16 a1
+-rw-r--r--   1 Alfred_Mo  staff     0B 10 30 11:14 file2.txt
+-rw-r--r--   1 Alfred_Mo  staff   598B 10 30 11:25 list.txt
+-rw-r--r--   1 Alfred_Mo  staff     0B 10 30 11:04 my-file.txt
+-rw-r--r--   1 Alfred_Mo  staff    43B 10 30 11:27 typescript
+[1m[7m%[27m[1m[0m                                                                                ]7;file://ModydeMacBook-Air.local/Users/Alfred_Mo/tecky-exercises[0m[27m[24m[JAlfred_Mo@ModydeMacBook-Air tecky-exercises % [K[?2004heexit[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Mon Oct 30 11:27:23 2023
